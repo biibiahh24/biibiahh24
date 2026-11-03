@@ -22,6 +22,54 @@ Gosto de transformar necessidades reais em soluções tecnológicas úteis. Minh
 - 🎨 **UX/UI:** wireframes, prototipação, Design Thinking, acessibilidade e interfaces responsivas.
 - 🎯 **Objetivo:** oportunidades em desenvolvimento de software, TI, automação, dados ou UX/UI.
 
+<div align="center">
+
+![Desenvolvimento de software](https://img.shields.io/badge/Foco-Desenvolvimento_de_software-C084FC?style=flat-square)
+![Automação de processos](https://img.shields.io/badge/Foco-Automação_de_processos-22D3EE?style=flat-square&labelColor=111827)
+![Experiência do usuário](https://img.shields.io/badge/Foco-Experiência_do_usuário-A78BFA?style=flat-square&labelColor=111827)
+
+</div>
+
+## ✨ Experiência em destaque
+
+| Atuação | O que desenvolvi |
+| :--- | :--- |
+| **Desenvolvimento de Sistemas** · Kiraly Advocacia | Manutenção de aplicações internas em PHP, evolução de funcionalidades, correção de bugs, dashboards e consultas SQL. |
+| **Service Desk** · Wellhub | Suporte a usuários, gestão de chamados e acessos, análise de processos e automação de notificações com o WellBot. |
+
+## 🚀 Projetos em destaque
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Coletivo Rise</h3>
+      <p>Plataforma web para divulgar encontros, receber inscrições e disponibilizar uma loja com checkout integrado.</p>
+      <p><strong>Stack:</strong> React, TypeScript, Supabase, APIs e Vercel.</p>
+      <a href="https://github.com/biibiahh24/Coletivo-Rise">Ver repositório →</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>IsyOps Autopilot</h3>
+      <p>Projeto de hackathon para automação de playbooks operacionais, auditoria e monitoramento de incidentes.</p>
+      <p><strong>Stack:</strong> Python, FastAPI, React, PostgreSQL e Docker.</p>
+      <em>Projeto acadêmico</em>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>PetMind</h3>
+      <p>Sistema web para clínicas veterinárias com autenticação, cadastro de tutores e pets e suporte de IA ao diagnóstico.</p>
+      <p><strong>Stack:</strong> JavaScript, PHP, MySQL e Figma.</p>
+      <em>Projeto de hackathon</em>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Ascensão</h3>
+      <p>Plataforma web de inclusão social com experiência responsiva, interface planejada com foco no usuário e integração de dados.</p>
+      <p><strong>Stack:</strong> HTML, CSS, JavaScript, PHP e MySQL.</p>
+      <em>Projeto escolar</em>
+    </td>
+  </tr>
+</table>
+
 ## 🛠️ Tecnologias e ferramentas
 
 Tecnologias que utilizo em projetos, estudos e experiências profissionais.
@@ -91,3 +139,4 @@ Aberta a oportunidades e colaborações em tecnologia.
 [Entre em contato pelo LinkedIn](https://www.linkedin.com/in/beatriz-ramos-4046a8289)
 
 </div>
+
